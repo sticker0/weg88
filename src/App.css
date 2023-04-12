@@ -10,26 +10,28 @@ body {
 .container {
   margin: auto;
   max-width: 600px;
+  width: 95%;
   color: #fff;
-  font-size: 36px;
+  font-size: 20px;
   font-family: "Golos Text", sans-serif;
 }
 
 .todoBlock {
-  padding: 20px;
+  padding: 13px;
   margin-top: 50px;
   background: #333;
   border-radius: 15px 0 15px 0;
   box-shadow: -1px 1px 12px rgb(255 255 255 /100%);
+  box-sizing: border-box;
 }
 
 .list {
   background: #666;
-  margin: 10px 0;
-  padding: 10px;
+  margin: 8px 0;
+  padding: 8px;
   box-sizing: border-box;
   border-radius: 8px 0 8px 0;
-  font-size: 24px;
+  font-size: 18px;
 }
 .list .completed {
   text-decoration: line-through;
@@ -41,7 +43,7 @@ body {
   height: 20px;
 }
 .list span {
-  vertical-align: 2px;
+  vertical-align: 3px;
   font-family: "Noto Serif KR", serif;
 }
 
@@ -49,21 +51,24 @@ body {
   background: rgba(30, 30, 30, 0.4);
   color: rgba(200, 200, 200, 0.4);
 }
-
+form {
+  max-width: 100%;
+  margin: 0 auto;
+}
 .btn {
   float: right;
-  width: 35px;
-  height: 35px;
+  width: 28px;
+  height: 28px;
   background: #444;
   border-radius: 5px;
   color: #fff;
-  font-size: 20px;
+  font-size: 18px;
   font-weight: bold;
   border: none;
 }
 
 .write {
-  width: 530px;
+  width: 80%;
   height: 40px;
   border-radius: 7px 0 0 0;
   border: none;
@@ -74,7 +79,7 @@ body {
 }
 
 .submit {
-  width: 60px;
+  width: 17%;
   height: 40px;
   background: #888;
   border: none;
