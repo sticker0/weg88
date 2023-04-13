@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/weg88/static/css/main.58c89428.css",
+    "main.css": "/weg88/static/css/main.1b9afd1c.css",
     "main.js": "/weg88/static/js/main.2bcfcf69.js",
     "static/js/787.7f2c2da0.chunk.js": "/weg88/static/js/787.7f2c2da0.chunk.js",
     "index.html": "/weg88/index.html",
-    "main.58c89428.css.map": "/weg88/static/css/main.58c89428.css.map",
+    "main.1b9afd1c.css.map": "/weg88/static/css/main.1b9afd1c.css.map",
     "main.2bcfcf69.js.map": "/weg88/static/js/main.2bcfcf69.js.map",
     "787.7f2c2da0.chunk.js.map": "/weg88/static/js/787.7f2c2da0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.58c89428.css",
+    "static/css/main.1b9afd1c.css",
     "static/js/main.2bcfcf69.js"
   ]
 }
